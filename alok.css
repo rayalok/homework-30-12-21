@@ -1,0 +1,171 @@
+*
+{
+    margin: auto;
+    padding: 0;
+}
+
+.contant
+{
+    width: 1100px;
+}
+.topHleft{
+    width: 77%;
+    float: left;
+}
+.topHright
+{
+    float: right;
+    width: 23%;
+   
+}
+.topH{
+    overflow: hidden;
+    padding: 18px 0;
+
+
+}
+.topHleft ul li a
+{
+    display: inline-block;
+    text-decoration: none;
+    font-family: arial;
+    color: #3c346a;
+    line-height: 0;
+    padding: 5px;
+
+}
+.topHleft ul li{
+    display: inline;
+
+}
+.topHleft
+{
+    padding: 0;
+    margin: 0;
+}
+.topHright a
+{
+  padding: 7px;
+}
+.topHright a i
+{
+    padding: 7px;
+    border-radius: 3px;
+   
+    
+}
+.topHright i:hover
+{
+    background-color: #67CDFF;
+    color: white;
+}
+
+/* start main headar*/
+.mainHleft
+{
+    width: 42%;
+    float: left;
+}
+.mainHright
+{
+    width: 58%;
+    float: right;
+    padding: 15px 0;
+}
+.menu ul li
+{
+    display: inline;
+   
+}
+.menu ul li a 
+{
+    text-decoration: none;
+    padding: 12px;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    
+    
+}
+
+.menu ul
+{
+    display: inline;
+   
+}
+.menu ul li a:hover
+{
+    color: #67CDFF;
+}
+.mainHright div
+{
+    display: inline;
+}
+.button a{
+    text-decoration: none;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: #74c6f0;
+    padding: 17px 31px;
+    border-radius: 6px;
+    transition: all .2s ease-in-out;
+}
+.button a:hover
+{
+    background-color: #19B1FF;
+   
+}
+.search
+{
+    padding: 19px;
+}
+.search a i
+{
+    padding: 7px;
+    border-radius: 3px;
+}
+.search a i:hover
+{
+    background-color: #67CDFF;
+   
+   
+}
+.pic
+{
+    margin-left: 134px;
+    margin-top: 128px;
+    
+}
+.pic button
+{
+    padding: 6px 18px;
+    background-color: #67CDFF;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+}
+.pic p
+{
+    font-size: 60px;
+    font-weight: bold;
+    color: #171347;
+    font-family: arial;
+}
+.pic img 
+{
+    margin-top: -250px;
+    margin-right: -100px;
+    float: right;
+    height: 600px;
+}
+.lorem
+{
+    font-size: 22px;
+    color: rgb(73, 69, 69);
+    font-family: arial;
+   
+}
